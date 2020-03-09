@@ -19,6 +19,11 @@ FYI, Read more about the Tsetlin Machine on here https://github.com/cair/Tsetlin
 
 <img src="ThinLady_1.jpg" width = "350" align="middle" >
 
+
+---
+## Demo Video
+Coming Soon
+
 ---
 ## Architecture 
 Coming Soon
