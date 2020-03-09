@@ -11,10 +11,13 @@ Read more about the Tsetlin Machine on here https://github.com/cair/TsetlinMachi
 ---
 ## Designs
 
-### Model 1: Transparent Man
+### Model 1.1: Transparent Man
 <!-- ![transpM1](TraspM_1.jpeg) -->
 <img src="TraspM_1.jpeg" width = "400" align="middle" >
 
+### Model 1.2: Transparent Man B
+<!-- ![transpM1](TraspM_B_1.jpg) -->
+<img src="TraspM_B_1.jpg" width = "400" align="middle" >
 
 ### Model 2: Thin Lady
 
