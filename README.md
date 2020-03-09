@@ -12,7 +12,7 @@ FYI, Read more about the Tsetlin Machine on here https://github.com/cair/Tsetlin
 
 ### Model 1: Transparent Man
 ![transpM1]
-(https://github.com/JieGH/Hardware_TM_Demo/blob/master/TraspM_1.jpeg)
+(https://raw.githubusercontent.com/JieGH/Hardware_TM_Demo/master/TraspM_1.jpeg)
 
 
 ### Model 2: Thin Lady
