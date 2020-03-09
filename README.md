@@ -7,14 +7,17 @@ The project received great help from [Professor Alex Yakovlev](https://www.ncl.a
 
 FYI, Read more about the Tsetlin Machine on here https://github.com/cair/TsetlinMachine 
 
+---
 ## Designs
 
 ### Model 1: Transparent Man
 ![transpM1]
-(/TraspM_1.jpeg)
+(https://github.com/JieGH/Hardware_TM_Demo/blob/master/TraspM_1.jpeg)
+
 
 ### Model 2: Thin Lady
 
+---
 ## Architecture 
 
 
