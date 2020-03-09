@@ -23,9 +23,10 @@ Read more about the Tsetlin Machine on here https://github.com/cair/TsetlinMachi
 
 ---
 ## Demo Video
-Coming Soon
+Coming Soon, don't forget to watch this project for updates!
 
 ---
 ## Architecture 
-Coming Soon
+Coming Soon, don't forget to watch this project for updates! 
+
 
