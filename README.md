@@ -30,6 +30,5 @@ Coming Soon, don't forget to watch this project for updates!
 
 ---
 ## Architecture 
-Coming Soon, don't forget to watch this project for updates! 
-
+<img src="TM_demo_achit.png" width = "400" align="middle" >
 
