@@ -19,7 +19,7 @@ Read more about the Tsetlin Machine on here https://github.com/cair/TsetlinMachi
 <!-- ![transpM1](TraspM_B_1.jpg) -->
 <img src="TraspM_B_1.jpg" width = "400" align="middle" >
 
-### Model 3: The Traveler
+### Model 2: The Traveler
 
 <img src="ThinLady_1.jpg" width = "400" align="middle" >
 
