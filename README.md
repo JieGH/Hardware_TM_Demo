@@ -32,8 +32,7 @@ Read more about the Tsetlin Machine on here https://github.com/cair/TsetlinMachi
 
 ---
 ## Demo Video
-Coming Soon, don't forget to watch this project for updates!
-
+Released! https://youtu.be/BzaPGByX-hg
 ---
 ## Architecture 
 <img src="TM_demo_achit.png" width = "400" align="middle" >
